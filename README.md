@@ -1,4 +1,6 @@
-# Bot
+# Bottala
+
+Bottala is an online web E-Commerce Application which would focus on satisfying clients alcohol cravings while they enjoy the comfort of their homes.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
